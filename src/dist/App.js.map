@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.tsx"],"names":[],"mappings":";;AAAA,+BAA0B;AAG1B,SAAS,GAAG;IACV,OAAO,CACL,0CAAK,SAAS,EAAC,KAAK,kBAEd,CACP,CAAC;AACJ,CAAC;AAED,qBAAe,GAAG,CAAC","file":"App.js","sourcesContent":["import React from 'react';\n\n\nfunction App() {\n  return (\n    <div className=\"App\">\nHello Dreyy\n    </div>\n  );\n}\n\nexport default App;\n"]}
